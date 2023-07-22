@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="22" centery="10" centerz="7" radius="1">
+		<monster name="Armadile" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Armadile" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Armadile" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="7" centery="14" centerz="7" radius="1">
+		<monster name="Armadile" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Armadile" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Armadile" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="15" centery="17" centerz="7" radius="1">
+		<monster name="Armadile" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Armadile" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Armadile" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="23" centery="22" centerz="7" radius="1">
+		<monster name="Armadile" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Armadile" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Armadile" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Armadile" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="13" centery="23" centerz="7" radius="1">
+		<monster name="Armadile" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Armadile" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Armadile" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+</spawns>
