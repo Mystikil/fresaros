@@ -31,3 +31,7 @@ PlayerStorageKeys = {
 
 GlobalStorageKeys = {
 }
+
+MonsterStorageKeys = {
+        intelligenceExperience = 400000
+}

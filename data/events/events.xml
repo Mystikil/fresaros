@@ -36,7 +36,7 @@
 
 	<!-- Monster methods -->
 	<event class="Monster" method="onDropLoot" enabled="1" />
-	<event class="Monster" method="onSpawn" enabled="0" />
+       <event class="Monster" method="onSpawn" enabled="1" />
   
   <!-- Dungeon Methods -->
 	<event class="Dungeon" method="onQueue" enabled="1" />
