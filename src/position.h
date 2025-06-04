@@ -91,9 +91,9 @@ struct Position
 		return false;
 	}
 
-	bool operator>(const Position& p) const {
-		return ! (*this < p);
-	}
+       bool operator>(const Position& p) const {
+               return p < *this;
+       }
 
 	bool operator==(const Position& p) const {
 		return p.x == x && p.y == y && p.z == z;
