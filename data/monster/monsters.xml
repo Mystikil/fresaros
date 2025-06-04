@@ -195,6 +195,7 @@
 	<monster name="Elder Forest Fury" file="monsters/elder_forest_fury.xml" />
 	<monster name="Elder Mummy" file="monsters/elder_mummy.xml" />
 	<monster name="Elder Wyrm" file="monsters/elder_wyrm.xml" />
+        <monster name="Electric Wisp" file="monsters/electric_wisp.xml" />
 	<monster name="Elephant" file="monsters/elephant.xml" />
 	<monster name="Elf Arcanist" file="monsters/elf_arcanist.xml" />
 	<monster name="Elf Overseer" file="monsters/elf_overseer.xml" />
